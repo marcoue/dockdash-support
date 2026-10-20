@@ -1,9 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>DockDash Updates</title>
     <link>https://github.com/marcoue/dockdash-support</link>
     <description>DockDash release updates</description>
     <language>en</language>
+    <item>
+      <title>1.0</title>
+      <pubDate>Tue, 20 Oct 2026 11:41:49 -0400</pubDate>
+      <link>https://github.com/marcoue/dockdash-support</link>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## What’s New in DockDash 1.0
+
+- Initial public release</description>
+      <enclosure url="https://github.com/marcoue/dockdash-support/releases/download/1.0_1/DockDash.dmg" length="3327749" type="application/octet-stream" sparkle:edSignature="V9HZcF47hO+qYNitbcq9cUlP4rVEVJnwxCt7SeoaReITD3Hs+rzT5htaXLN6500MrAEpyb40vRl1MVIXo4Y3CA==" />
+    </item>
   </channel>
 </rss>
