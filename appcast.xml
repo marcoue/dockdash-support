@@ -6,6 +6,21 @@
     <description>DockDash release updates</description>
     <language>en</language>
     <item>
+      <title>1.0.2</title>
+      <pubDate>Tue, 20 Oct 2026 17:01:38 -0400</pubDate>
+      <link>https://github.com/marcoue/dockdash-support</link>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## What’s New in DockDash 1.0.3
+
+- Fixed an issue where the Settings window opened behind other windows.
+- Fixed the drop menu icon to turn green when lock is active.
+- Improved dock behavior when switching displays via the menu while the app is active.
+- Imporved UI to better locate the selected screen and it's status.</description>
+      <enclosure url="https://github.com/marcoue/dockdash-support/releases/download/1.0.2_3/DockDash.dmg" length="3369964" type="application/octet-stream" sparkle:edSignature="qdQFaRge+VBeBHH+T9BuFhPJxrNe0tFgkZDb5/ym7W9PODwL0JglJIMnRSSGoV52ZgcZzVrmEYf2ULtEzwH9AA==" />
+    </item>
+    <item>
       <title>1.0.1</title>
       <pubDate>Tue, 20 Oct 2026 13:25:37 -0400</pubDate>
       <link>https://github.com/marcoue/dockdash-support</link>
