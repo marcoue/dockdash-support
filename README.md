@@ -1,7 +1,6 @@
 ---
 title: DockDash
 description: Keep your Mac’s Dock on the display you choose.
-version: "1.0 (1)"
 platform: macOS
 ---
 
