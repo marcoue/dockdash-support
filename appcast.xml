@@ -6,6 +6,19 @@
     <description>DockDash release updates</description>
     <language>en</language>
     <item>
+      <title>1.0.3</title>
+      <pubDate>Tue, 20 Oct 2026 21:04:54 -0400</pubDate>
+      <link>https://github.com/marcoue/dockdash-support</link>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## What’s New in DockDash 1.0.3
+
+- Fixed OS permission handling and added an informational popup explaining why these permissions are necessary.
+- Fix Dock protection permission flow</description>
+      <enclosure url="https://github.com/marcoue/dockdash-support/releases/download/1.0.3_4/DockDash.dmg" length="3404767" type="application/octet-stream" sparkle:edSignature="ECxQXqDlwT8xCpCvJKMNpPsEG1+AXf4AtetSuss7AIXpX6+OFfdgVM1O6MEkQQyt/wLsbBa0v9o/NN+qgXMHCA==" />
+    </item>
+    <item>
       <title>1.0.2</title>
       <pubDate>Tue, 20 Oct 2026 17:01:38 -0400</pubDate>
       <link>https://github.com/marcoue/dockdash-support</link>
